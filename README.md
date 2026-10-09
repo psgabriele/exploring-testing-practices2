@@ -46,16 +46,22 @@ Para cada repositório, escolha uma prática ou dado de teste relevante e expliq
 
 ### Repositório 1 
 
-Repositório: `<URL_DO_REPOSITÓRIO>`
+Repositório: [https://github.com/freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
-URL TestMiner: `<URL_NO_TESTMINER>`
+URL TestMiner: [https://andrehora.github.io/testminer/#freeCodeCamp/freeCodeCamp](https://andrehora.github.io/testminer/#freeCodeCamp/freeCodeCamp)
 
-Explicação: `<SUA_EXPLICAÇÃO>`
+Explicação: O projeto freeCodeCamp apresenta 159 testes E2E, que verificam se as funcionalidades do sistema funcionam corretamente do início ao fim, simulando as ações de um usuário real. Isso ajuda a identificar problemas na interação entre diferentes partes da aplicação e a garantir que os principais fluxos funcionem como esperado.
+
+<img width="927" height="462" alt="image" src="https://github.com/user-attachments/assets/407f5fee-76ec-47b7-8528-2f1c72175ad8" />
+
 
 ### Repositório 2
 
-Repositório: `<URL_DO_REPOSITÓRIO>`
+Repositório: [https://github.com/pallets/flask/tree/main](https://github.com/pallets/flask/tree/main)
 
-URL TestMiner: `<URL_NO_TESTMINER>`
+URL TestMiner: [https://andrehora.github.io/testminer/#pallets/flask](https://andrehora.github.io/testminer/#pallets/flask)
 
-Explicação: `<SUA_EXPLICAÇÃO>`
+Explicação: É uma boa prática que testes sempre sejam escritos e realizados no sistema o qual está sendo desenvolvido. Entretanto, com base nas estatísticas de teste do flask, desde a versão 2.0.2 até a 3.1.3, a quantidade de testes permaneceu a mesma, sem nenhuma evolução. Para garantir uma melhor qualidade do sistema, é necessário implementar novos testes conforme esse sistema cresce, de forma que ambos cresçam simultaneamente.
+
+<img width="930" height="513" alt="image" src="https://github.com/user-attachments/assets/9787eb8f-e26b-49ab-9105-b65a60c93054" />
+
